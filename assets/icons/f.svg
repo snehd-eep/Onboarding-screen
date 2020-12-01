@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="51" viewBox="0 0 190 51">
+  <g id="Group_1" data-name="Group 1" transform="translate(-41.594 -117)">
+    <g id="Icon_ionic-ios-videocam" data-name="Icon ionic-ios-videocam" transform="translate(88.985 133.065)">
+      <path id="Path_1" data-name="Path 1" d="M34.561,10.8a1.694,1.694,0,0,0-.922.268l-8.577,5.414a.848.848,0,0,0-.4.714v7.536a.848.848,0,0,0,.4.714l8.577,5.414a1.782,1.782,0,0,0,.922.268h2.062a.844.844,0,0,0,.853-.843V11.643a.851.851,0,0,0-.853-.843Z" transform="translate(6.944 -8.262)" fill="red"/>
+      <path id="Path_2" data-name="Path 2" d="M26.2,34.383H7.356a5.122,5.122,0,0,1-5.106-5.1V14.1A5.114,5.114,0,0,1,7.346,9H26.185a5.114,5.114,0,0,1,5.1,5.1v15.18A5.1,5.1,0,0,1,26.2,34.383Z" transform="translate(-2.25 -9)" fill="red"/>
+    </g>
+    <text id="TR" transform="translate(41.594 158)" fill="#fff" font-size="38" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TR</tspan></text>
+    <text id="LERLY" transform="translate(137.594 157)" fill="#fff" font-size="37" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LERLY</tspan></text>
+  </g>
+</svg>
