@@ -18,4 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 <p> Screens </p>
 
-![](screens/obs1.jpg)
+![](screens/obs1.png)
+
+![](screens/obs2.png)
+
+![](screens/obs3.png)
